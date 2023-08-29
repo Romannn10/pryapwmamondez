@@ -1,0 +1,22 @@
+{
+  "name": "pry-aw-mamondez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romannn10/pryapwmamondez.git"
+  },
+  "author": "Roman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romannn10/pryapwmamondez/issues"
+  },
+  "homepage": "https://github.com/Romannn10/pryapwmamondez#readme",
+  "devDependencies": {
+    "five-server": "^0.3.1"
+  }
+}
